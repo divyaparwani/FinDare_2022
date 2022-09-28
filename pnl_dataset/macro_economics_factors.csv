@@ -1,0 +1,449 @@
+,PnL,MicroEconomic Attribute
+0,Net Sales,year
+1,Net Sales,"Age dependency ratio, young (% of working-age population)"
+2,Net Sales,"Population ages 65-69, male (% of male population)"
+3,Net Sales,Population ages 0-14 (% of total population)
+4,Net Sales,GNI per capita (constant LCU)
+5,Net Sales,GDP (constant 2015 US$)
+6,Net Sales,Gross capital formation (current LCU)
+7,Net Sales,"Households and NPISHs Final consumption expenditure, PPP (constant 2017 international $)"
+8,Net Sales,Insurance and financial services (% of commercial service exports)
+9,Net Sales,Food imports (% of merchandise imports)
+10,Net Sales,"Population ages 80 and above, male (% of male population)"
+11,Net Sales,"Population ages 55-59, male (% of male population)"
+12,Net Sales,"Population ages 0-14, female (% of female population)"
+13,Net Sales,"GDP per capita, PPP (constant 2017 international $)"
+14,Net Sales,Gross national expenditure (constant LCU)
+15,Net Sales,Households and NPISHs Final consumption expenditure (constant LCU)
+16,Net Sales,Total reserves minus gold (current US$)
+17,Net Sales,Population in largest city
+18,Net Sales,"Exports of goods, services and primary income (BoP, current US$)"
+19,Net Sales,"Service imports (BoP, current US$)"
+20,Net Sales,"ICT service exports (BoP, current US$)"
+21,Net Sales,"Secondary income, other sectors, payments (BoP, current US$)"
+22,Net Sales,Agricultural raw materials imports (% of merchandise imports)
+23,Net Sales,"Population ages 80 and above, female (% of female population)"
+24,Net Sales,"Population ages 55-59, female (% of female population)"
+25,Net Sales,"Population ages 15-64, total"
+26,Net Sales,Labor force with advanced education (% of total working-age population with advanced education)
+27,Net Sales,"GNI, PPP (constant 2017 international $)"
+28,Net Sales,"GDP per capita, PPP (current international $)"
+29,Net Sales,Gross national expenditure (constant 2015 US$)
+30,Net Sales,Urban population (% of total population)
+31,Net Sales,"Population, total"
+32,Net Sales,"Population ages 65 and above, male (% of male population)"
+33,Net Sales,"Population ages 10-14, male (% of male population)"
+34,Net Sales,GNI (current US$)
+35,Net Sales,"GDP, PPP (constant 2017 international $)"
+36,Net Sales,GDP deflator: linked series (base year varies by country)
+37,Net Sales,Final consumption expenditure (constant 2015 US$)
+38,Net Sales,"Primary income receipts (BoP, current US$)"
+39,Net Sales,Rural population
+40,Net Sales,"Population ages 65-69, female (% of female population)"
+41,Net Sales,"Population ages 25-29, female (% of female population)"
+42,Net Sales,GDP: linked series (current LCU)
+43,Net Sales,"Services, value added (constant 2015 US$)"
+44,Net Sales,Gross capital formation (current US$)
+45,Net Sales,"Households and NPISHs Final consumption expenditure, PPP (current international $)"
+46,Net Sales,Commercial service imports (current US$)
+47,Net Sales,Rural population (% of total population)
+48,Net Sales,"Population ages 65 and above, female"
+49,Net Sales,"Population ages 05-09, female (% of female population)"
+50,Net Sales,Ratio of female to male labor force participation rate (%) (national estimate)
+51,Net Sales,GDP per person employed (constant 2017 PPP $)
+52,Net Sales,"GNI per capita, PPP (current international $)"
+53,Net Sales,"Services, value added (constant LCU)"
+54,Net Sales,"Total reserves (includes gold, current US$)"
+55,Net Sales,"Imports of goods and services (BoP, current US$)"
+56,Net Sales,"Labor force with intermediate education, male (% of male working-age population with intermediate education)"
+57,Net Sales,GDP per capita (constant 2015 US$)
+58,Net Sales,Gross fixed capital formation (constant 2015 US$)
+59,Net Sales,Gross national expenditure deflator (base year varies by country)
+60,Net Sales,Households and NPISHs Final consumption expenditure (current LCU)
+61,Net Sales,"Labor force with advanced education, male (% of male working-age population with advanced education)"
+62,Net Sales,"GNI, PPP (current international $)"
+63,Net Sales,GDP per capita (constant LCU)
+64,Net Sales,Gross fixed capital formation (constant LCU)
+65,Net Sales,Gross national expenditure (current LCU)
+66,Net Sales,Households and NPISHs Final consumption expenditure (constant 2015 US$)
+67,Net Sales,Population in the largest city (% of urban population)
+68,Net Sales,"Charges for the use of intellectual property, payments (BoP, current US$)"
+69,Net Sales,Gross fixed capital formation (current US$)
+70,Net Sales,Final consumption expenditure (constant LCU)
+71,Net Sales,Consumer price index (2010 = 100)
+72,Net Sales,Population density (people per sq. km of land area)
+73,Net Sales,"Population, female"
+74,Net Sales,"Population ages 65 and above, total"
+75,Net Sales,"Population ages 40-44, female (% of female population)"
+76,Net Sales,GNI (current LCU)
+77,Net Sales,Imports of goods and services (current US$)
+78,Net Sales,General government final consumption expenditure (constant LCU)
+79,Net Sales,Manufactures exports (% of merchandise exports)
+80,Net Sales,"Population ages 60-64, female (% of female population)"
+81,Net Sales,"Labor force, female (% of total labor force)"
+82,Net Sales,"Labor force with basic education, male (% of male working-age population with basic education)"
+83,Net Sales,GNI per capita (current LCU)
+84,Net Sales,GDP (current US$)
+85,Net Sales,External balance on goods and services (constant LCU)
+86,Net Sales,Gross national expenditure (% of GDP)
+87,Net Sales,Imports of goods and services (constant LCU)
+88,Net Sales,Gross national expenditure (current US$)
+89,Net Sales,Households and NPISHs final consumption expenditure: linked series (current LCU)
+90,Net Sales,"Service exports (BoP, current US$)"
+91,Net Sales,Population in urban agglomerations of more than 1 million
+92,Net Sales,"Imports of goods, services and primary income (BoP, current US$)"
+93,Net Sales,Food exports (% of merchandise exports)
+94,Net Sales,"Population ages 15-64, male"
+95,Net Sales,GNI (constant LCU)
+96,Net Sales,Commercial service exports (current US$)
+97,Net Sales,"Population ages 60-64, male (% of male population)"
+98,Net Sales,"Population ages 0-14, male (% of male population)"
+99,Net Sales,"Labor force, total"
+100,Net Sales,Labor force with basic education (% of total working-age population with basic education)
+101,Net Sales,GNI per capita (constant 2015 US$)
+102,Net Sales,GDP (current LCU)
+103,Net Sales,External balance on goods and services (% of GDP)
+104,Net Sales,"Goods imports (BoP, current US$)"
+105,Net Sales,"Population ages 05-09, male (% of male population)"
+106,Net Sales,Ratio of female to male labor force participation rate (%) (modeled ILO estimate)
+107,Net Sales,"GNI per capita, PPP (constant 2017 international $)"
+108,Net Sales,Gross domestic income (constant LCU)
+109,Net Sales,GDP (constant LCU)
+110,Net Sales,Final consumption expenditure (current US$)
+111,Net Sales,General government final consumption expenditure (current LCU)
+112,Net Sales,Merchandise imports (current US$)
+113,Net Sales,Urban population
+114,Net Sales,"Population ages 65 and above, male"
+115,Net Sales,"Population ages 10-14, female (% of female population)"
+116,Net Sales,"GNI, Atlas method (current US$)"
+117,Net Sales,"GDP, PPP (current international $)"
+118,Net Sales,GDP deflator (base year varies by country)
+119,Net Sales,Gross capital formation (constant LCU)
+120,Net Sales,Final consumption expenditure (current LCU)
+121,Net Sales,General government final consumption expenditure (constant 2015 US$)
+122,Net Sales,"Insurance and financial services (% of service exports, BoP)"
+123,Net Sales,"Primary income payments (BoP, current US$)"
+124,Net Sales,Population ages 65 and above (% of total population)
+125,Net Sales,"Population ages 40-44, male (% of male population)"
+126,Net Sales,GNI: linked series (current LCU)
+127,Net Sales,Discrepancy in expenditure estimate of GDP (constant LCU)
+128,Net Sales,Imports of goods and services (current LCU)
+129,Net Sales,"Population, male"
+130,Net Sales,"Population ages 15-64, female"
+131,Net Sales,GNI (constant 2015 US$)
+132,Net Sales,GDP per capita (current LCU)
+133,Net Sales,Imports of goods and services (constant 2015 US$)
+134,Net Sales,Gross fixed capital formation (current LCU)
+135,Net Sales,Households and NPISHs Final consumption expenditure (current US$)
+136,Net Sales,Gross capital formation (constant 2015 US$)
+137,Net Sales,General government final consumption expenditure (current US$)
+138,Net Sales,"Secondary income receipts (BoP, current US$)"
+139,Net Sales,Population in urban agglomerations of more than 1 million (% of total population)
+140,Membership and Other Income,"GNI, PPP (constant 2017 international $)"
+141,Membership and Other Income,"GDP per capita, PPP (current international $)"
+142,Membership and Other Income,"GNI per capita, PPP (current international $)"
+143,Membership and Other Income,"GNI, PPP (current international $)"
+144,Membership and Other Income,GNI per capita (current LCU)
+145,Membership and Other Income,GNI (constant LCU)
+146,Membership and Other Income,"GDP, PPP (current international $)"
+147,Membership and Other Income,GNI (constant 2015 US$)
+148,Membership and Other Income,year
+149,Gross Profit,year
+150,Gross Profit,"Age dependency ratio, young (% of working-age population)"
+151,Gross Profit,"Population ages 65-69, male (% of male population)"
+152,Gross Profit,Population ages 0-14 (% of total population)
+153,Gross Profit,GNI per capita (constant LCU)
+154,Gross Profit,GDP (constant 2015 US$)
+155,Gross Profit,Gross capital formation (current LCU)
+156,Gross Profit,"Households and NPISHs Final consumption expenditure, PPP (constant 2017 international $)"
+157,Gross Profit,Insurance and financial services (% of commercial service exports)
+158,Gross Profit,Food imports (% of merchandise imports)
+159,Gross Profit,"Population ages 80 and above, male (% of male population)"
+160,Gross Profit,"Population ages 55-59, male (% of male population)"
+161,Gross Profit,"Population ages 0-14, female (% of female population)"
+162,Gross Profit,"GNI per capita, Atlas method (current US$)"
+163,Gross Profit,"GDP per capita, PPP (constant 2017 international $)"
+164,Gross Profit,Gross national expenditure (constant LCU)
+165,Gross Profit,Households and NPISHs Final consumption expenditure (constant LCU)
+166,Gross Profit,Total reserves minus gold (current US$)
+167,Gross Profit,Population in largest city
+168,Gross Profit,"Exports of goods, services and primary income (BoP, current US$)"
+169,Gross Profit,"Service imports (BoP, current US$)"
+170,Gross Profit,"ICT service exports (BoP, current US$)"
+171,Gross Profit,"Secondary income, other sectors, payments (BoP, current US$)"
+172,Gross Profit,Agricultural raw materials imports (% of merchandise imports)
+173,Gross Profit,"Population ages 80 and above, female (% of female population)"
+174,Gross Profit,"Population ages 55-59, female (% of female population)"
+175,Gross Profit,"Population ages 15-64, total"
+176,Gross Profit,Labor force with advanced education (% of total working-age population with advanced education)
+177,Gross Profit,"GNI, PPP (constant 2017 international $)"
+178,Gross Profit,"GDP per capita, PPP (current international $)"
+179,Gross Profit,Gross national expenditure (constant 2015 US$)
+180,Gross Profit,Urban population (% of total population)
+181,Gross Profit,"Population, total"
+182,Gross Profit,"Population ages 65 and above, male (% of male population)"
+183,Gross Profit,"Population ages 10-14, male (% of male population)"
+184,Gross Profit,GNI (current US$)
+185,Gross Profit,"GDP, PPP (constant 2017 international $)"
+186,Gross Profit,GDP deflator: linked series (base year varies by country)
+187,Gross Profit,Final consumption expenditure (constant 2015 US$)
+188,Gross Profit,"Primary income receipts (BoP, current US$)"
+189,Gross Profit,"Population ages 65-69, female (% of female population)"
+190,Gross Profit,"Population ages 25-29, female (% of female population)"
+191,Gross Profit,GDP: linked series (current LCU)
+192,Gross Profit,"Services, value added (constant 2015 US$)"
+193,Gross Profit,Gross capital formation (current US$)
+194,Gross Profit,"Households and NPISHs Final consumption expenditure, PPP (current international $)"
+195,Gross Profit,Commercial service imports (current US$)
+196,Gross Profit,Rural population (% of total population)
+197,Gross Profit,"Population ages 65 and above, female"
+198,Gross Profit,"Population ages 05-09, female (% of female population)"
+199,Gross Profit,Ratio of female to male labor force participation rate (%) (national estimate)
+200,Gross Profit,GDP per person employed (constant 2017 PPP $)
+201,Gross Profit,"GNI per capita, PPP (current international $)"
+202,Gross Profit,"Services, value added (constant LCU)"
+203,Gross Profit,"Total reserves (includes gold, current US$)"
+204,Gross Profit,"Imports of goods and services (BoP, current US$)"
+205,Gross Profit,"Labor force with intermediate education, male (% of male working-age population with intermediate education)"
+206,Gross Profit,GDP per capita (constant 2015 US$)
+207,Gross Profit,Gross fixed capital formation (constant 2015 US$)
+208,Gross Profit,Gross national expenditure deflator (base year varies by country)
+209,Gross Profit,Households and NPISHs Final consumption expenditure (current LCU)
+210,Gross Profit,"Labor force with advanced education, male (% of male working-age population with advanced education)"
+211,Gross Profit,"GNI, PPP (current international $)"
+212,Gross Profit,GDP per capita (constant LCU)
+213,Gross Profit,Gross fixed capital formation (constant LCU)
+214,Gross Profit,Gross national expenditure (current LCU)
+215,Gross Profit,Households and NPISHs Final consumption expenditure (constant 2015 US$)
+216,Gross Profit,Population in the largest city (% of urban population)
+217,Gross Profit,"Charges for the use of intellectual property, payments (BoP, current US$)"
+218,Gross Profit,Gross fixed capital formation (current US$)
+219,Gross Profit,Final consumption expenditure (constant LCU)
+220,Gross Profit,Consumer price index (2010 = 100)
+221,Gross Profit,Population density (people per sq. km of land area)
+222,Gross Profit,"Population, female"
+223,Gross Profit,"Population ages 65 and above, total"
+224,Gross Profit,"Population ages 40-44, female (% of female population)"
+225,Gross Profit,GNI (current LCU)
+226,Gross Profit,Imports of goods and services (current US$)
+227,Gross Profit,General government final consumption expenditure (constant LCU)
+228,Gross Profit,Manufactures exports (% of merchandise exports)
+229,Gross Profit,"Population ages 60-64, female (% of female population)"
+230,Gross Profit,"Labor force, female (% of total labor force)"
+231,Gross Profit,"Labor force with basic education, male (% of male working-age population with basic education)"
+232,Gross Profit,GNI per capita (current LCU)
+233,Gross Profit,GDP (current US$)
+234,Gross Profit,External balance on goods and services (constant LCU)
+235,Gross Profit,Gross national expenditure (% of GDP)
+236,Gross Profit,Imports of goods and services (constant LCU)
+237,Gross Profit,Gross national expenditure (current US$)
+238,Gross Profit,Households and NPISHs final consumption expenditure: linked series (current LCU)
+239,Gross Profit,"Service exports (BoP, current US$)"
+240,Gross Profit,Population in urban agglomerations of more than 1 million
+241,Gross Profit,"Imports of goods, services and primary income (BoP, current US$)"
+242,Gross Profit,Food exports (% of merchandise exports)
+243,Gross Profit,"Population ages 15-64, male"
+244,Gross Profit,GNI (constant LCU)
+245,Gross Profit,Commercial service exports (current US$)
+246,Gross Profit,"Population ages 60-64, male (% of male population)"
+247,Gross Profit,"Population ages 0-14, male (% of male population)"
+248,Gross Profit,"Labor force, total"
+249,Gross Profit,Labor force with basic education (% of total working-age population with basic education)
+250,Gross Profit,Net secondary income (Net current transfers from abroad) (current LCU)
+251,Gross Profit,GNI per capita (constant 2015 US$)
+252,Gross Profit,GDP (current LCU)
+253,Gross Profit,External balance on goods and services (% of GDP)
+254,Gross Profit,"Goods imports (BoP, current US$)"
+255,Gross Profit,"Population ages 05-09, male (% of male population)"
+256,Gross Profit,Ratio of female to male labor force participation rate (%) (modeled ILO estimate)
+257,Gross Profit,"GNI per capita, PPP (constant 2017 international $)"
+258,Gross Profit,Gross domestic income (constant LCU)
+259,Gross Profit,GDP (constant LCU)
+260,Gross Profit,Final consumption expenditure (current US$)
+261,Gross Profit,General government final consumption expenditure (current LCU)
+262,Gross Profit,Merchandise imports (current US$)
+263,Gross Profit,Urban population
+264,Gross Profit,"Population ages 65 and above, male"
+265,Gross Profit,"Population ages 10-14, female (% of female population)"
+266,Gross Profit,"GNI, Atlas method (current US$)"
+267,Gross Profit,"GDP, PPP (current international $)"
+268,Gross Profit,GDP deflator (base year varies by country)
+269,Gross Profit,Gross capital formation (constant LCU)
+270,Gross Profit,Final consumption expenditure (current LCU)
+271,Gross Profit,General government final consumption expenditure (constant 2015 US$)
+272,Gross Profit,"Insurance and financial services (% of service exports, BoP)"
+273,Gross Profit,"Primary income payments (BoP, current US$)"
+274,Gross Profit,"Population ages 40-44, male (% of male population)"
+275,Gross Profit,GNI: linked series (current LCU)
+276,Gross Profit,Discrepancy in expenditure estimate of GDP (constant LCU)
+277,Gross Profit,Imports of goods and services (current LCU)
+278,Gross Profit,"Population, male"
+279,Gross Profit,"Population ages 15-64, female"
+280,Gross Profit,GNI (constant 2015 US$)
+281,Gross Profit,GDP per capita (current LCU)
+282,Gross Profit,Imports of goods and services (constant 2015 US$)
+283,Gross Profit,Gross fixed capital formation (current LCU)
+284,Gross Profit,Households and NPISHs Final consumption expenditure (current US$)
+285,Gross Profit,Gross capital formation (constant 2015 US$)
+286,Gross Profit,General government final consumption expenditure (current US$)
+287,Gross Profit,"Secondary income receipts (BoP, current US$)"
+288,Gross Profit,Population in urban agglomerations of more than 1 million (% of total population)
+289,Segment Operating income,Manufactures imports (% of merchandise imports)
+290,Segment Operating income,"Age dependency ratio, young (% of working-age population)"
+291,Segment Operating income,"GNI per capita, Atlas method (current US$)"
+292,Segment Operating income,Gross fixed capital formation (% of GDP)
+293,Segment Operating income,"Population ages 35-39, male (% of male population)"
+294,Segment Operating income,GNI (current US$)
+295,Segment Operating income,Gross capital formation (% of GDP)
+296,Segment Operating income,Gross capital formation (current US$)
+297,Segment Operating income,"Population ages 05-09, female (% of female population)"
+298,Segment Operating income,Gross fixed capital formation (current US$)
+299,Segment Operating income,Manufactures exports (% of merchandise exports)
+300,Segment Operating income,Net secondary income (Net current transfers from abroad) (current US$)
+301,Segment Operating income,GDP (current US$)
+302,Segment Operating income,External balance on goods and services (constant LCU)
+303,Segment Operating income,Gross national expenditure (current US$)
+304,Segment Operating income,"Population ages 05-09, male (% of male population)"
+305,Segment Operating income,Final consumption expenditure (current US$)
+306,Segment Operating income,"Population ages 35-39, female (% of female population)"
+307,Segment Operating income,"GNI, Atlas method (current US$)"
+308,Segment Operating income,Exports of goods and services (% of GDP)
+309,Segment Operating income,GDP per capita (current US$)
+310,Segment Operating income,Households and NPISHs Final consumption expenditure (current US$)
+311,Segment Operating income,General government final consumption expenditure (current US$)
+312,Segment Operating income,"Net secondary income (BoP, current US$)"
+313,Segment Operating income,year
+314,Total SG&A,year
+315,Total SG&A,"Age dependency ratio, young (% of working-age population)"
+316,Total SG&A,"Population ages 65-69, male (% of male population)"
+317,Total SG&A,Population ages 0-14 (% of total population)
+318,Total SG&A,GNI per capita (constant LCU)
+319,Total SG&A,GDP (constant 2015 US$)
+320,Total SG&A,Gross capital formation (current LCU)
+321,Total SG&A,"Households and NPISHs Final consumption expenditure, PPP (constant 2017 international $)"
+322,Total SG&A,Insurance and financial services (% of commercial service exports)
+323,Total SG&A,Food imports (% of merchandise imports)
+324,Total SG&A,"Population ages 80 and above, male (% of male population)"
+325,Total SG&A,"Population ages 55-59, male (% of male population)"
+326,Total SG&A,"Population ages 0-14, female (% of female population)"
+327,Total SG&A,"GDP per capita, PPP (constant 2017 international $)"
+328,Total SG&A,Gross national expenditure (constant LCU)
+329,Total SG&A,Households and NPISHs Final consumption expenditure (constant LCU)
+330,Total SG&A,Total reserves minus gold (current US$)
+331,Total SG&A,Population in largest city
+332,Total SG&A,"Service imports (BoP, current US$)"
+333,Total SG&A,"Secondary income, other sectors, payments (BoP, current US$)"
+334,Total SG&A,Agricultural raw materials imports (% of merchandise imports)
+335,Total SG&A,"Population ages 80 and above, female (% of female population)"
+336,Total SG&A,"Population ages 55-59, female (% of female population)"
+337,Total SG&A,"Population ages 15-64, total"
+338,Total SG&A,Labor force with advanced education (% of total working-age population with advanced education)
+339,Total SG&A,"GNI, PPP (constant 2017 international $)"
+340,Total SG&A,"GDP per capita, PPP (current international $)"
+341,Total SG&A,Gross national expenditure (constant 2015 US$)
+342,Total SG&A,Urban population (% of total population)
+343,Total SG&A,"Population, total"
+344,Total SG&A,"Population ages 65 and above, male (% of male population)"
+345,Total SG&A,"Population ages 10-14, male (% of male population)"
+346,Total SG&A,GNI (current US$)
+347,Total SG&A,"GDP, PPP (constant 2017 international $)"
+348,Total SG&A,GDP deflator: linked series (base year varies by country)
+349,Total SG&A,Final consumption expenditure (constant 2015 US$)
+350,Total SG&A,"Primary income receipts (BoP, current US$)"
+351,Total SG&A,Rural population
+352,Total SG&A,"Age dependency ratio, old (% of working-age population)"
+353,Total SG&A,"Population ages 65-69, female (% of female population)"
+354,Total SG&A,"Population ages 25-29, female (% of female population)"
+355,Total SG&A,GDP: linked series (current LCU)
+356,Total SG&A,"Services, value added (constant 2015 US$)"
+357,Total SG&A,"Households and NPISHs Final consumption expenditure, PPP (current international $)"
+358,Total SG&A,Commercial service imports (current US$)
+359,Total SG&A,Rural population (% of total population)
+360,Total SG&A,"Population ages 65 and above, female"
+361,Total SG&A,Ratio of female to male labor force participation rate (%) (national estimate)
+362,Total SG&A,GDP per person employed (constant 2017 PPP $)
+363,Total SG&A,"GNI per capita, PPP (current international $)"
+364,Total SG&A,"Services, value added (constant LCU)"
+365,Total SG&A,"Total reserves (includes gold, current US$)"
+366,Total SG&A,"Imports of goods and services (BoP, current US$)"
+367,Total SG&A,"Labor force with intermediate education, male (% of male working-age population with intermediate education)"
+368,Total SG&A,GDP per capita (constant 2015 US$)
+369,Total SG&A,Gross fixed capital formation (constant 2015 US$)
+370,Total SG&A,Gross national expenditure deflator (base year varies by country)
+371,Total SG&A,Households and NPISHs Final consumption expenditure (current LCU)
+372,Total SG&A,"Labor force with advanced education, male (% of male working-age population with advanced education)"
+373,Total SG&A,"GNI, PPP (current international $)"
+374,Total SG&A,GDP per capita (constant LCU)
+375,Total SG&A,Gross fixed capital formation (constant LCU)
+376,Total SG&A,Gross national expenditure (current LCU)
+377,Total SG&A,Households and NPISHs Final consumption expenditure (constant 2015 US$)
+378,Total SG&A,Population in the largest city (% of urban population)
+379,Total SG&A,"Charges for the use of intellectual property, payments (BoP, current US$)"
+380,Total SG&A,Final consumption expenditure (constant LCU)
+381,Total SG&A,Consumer price index (2010 = 100)
+382,Total SG&A,Population density (people per sq. km of land area)
+383,Total SG&A,"Population, female"
+384,Total SG&A,"Population ages 65 and above, total"
+385,Total SG&A,"Population ages 40-44, female (% of female population)"
+386,Total SG&A,GNI (current LCU)
+387,Total SG&A,"Agriculture, forestry, and fishing, value added (constant LCU)"
+388,Total SG&A,Imports of goods and services (current US$)
+389,Total SG&A,General government final consumption expenditure (constant LCU)
+390,Total SG&A,"Population ages 60-64, female (% of female population)"
+391,Total SG&A,"Labor force with basic education, male (% of male working-age population with basic education)"
+392,Total SG&A,GNI per capita (current LCU)
+393,Total SG&A,GDP (current US$)
+394,Total SG&A,Gross national expenditure (% of GDP)
+395,Total SG&A,Imports of goods and services (constant LCU)
+396,Total SG&A,Gross national expenditure (current US$)
+397,Total SG&A,Households and NPISHs final consumption expenditure: linked series (current LCU)
+398,Total SG&A,"Service exports (BoP, current US$)"
+399,Total SG&A,Population in urban agglomerations of more than 1 million
+400,Total SG&A,"Imports of goods, services and primary income (BoP, current US$)"
+401,Total SG&A,Food exports (% of merchandise exports)
+402,Total SG&A,"Population ages 15-64, male"
+403,Total SG&A,Labor force with intermediate education (% of total working-age population with intermediate education)
+404,Total SG&A,GNI (constant LCU)
+405,Total SG&A,Commercial service exports (current US$)
+406,Total SG&A,"Population ages 60-64, male (% of male population)"
+407,Total SG&A,"Population ages 0-14, male (% of male population)"
+408,Total SG&A,"Labor force, total"
+409,Total SG&A,Labor force with basic education (% of total working-age population with basic education)
+410,Total SG&A,GNI per capita (constant 2015 US$)
+411,Total SG&A,GDP (current LCU)
+412,Total SG&A,External balance on goods and services (% of GDP)
+413,Total SG&A,"Goods imports (BoP, current US$)"
+414,Total SG&A,"Population ages 65 and above, female (% of female population)"
+415,Total SG&A,Ratio of female to male labor force participation rate (%) (modeled ILO estimate)
+416,Total SG&A,"GNI per capita, PPP (constant 2017 international $)"
+417,Total SG&A,Gross domestic income (constant LCU)
+418,Total SG&A,GDP (constant LCU)
+419,Total SG&A,Final consumption expenditure (current US$)
+420,Total SG&A,General government final consumption expenditure (current LCU)
+421,Total SG&A,Merchandise imports (current US$)
+422,Total SG&A,Urban population
+423,Total SG&A,"Population ages 65 and above, male"
+424,Total SG&A,"Population ages 10-14, female (% of female population)"
+425,Total SG&A,"GNI, Atlas method (current US$)"
+426,Total SG&A,"GDP, PPP (current international $)"
+427,Total SG&A,GDP deflator (base year varies by country)
+428,Total SG&A,"Agriculture, forestry, and fishing, value added (constant 2015 US$)"
+429,Total SG&A,Final consumption expenditure (current LCU)
+430,Total SG&A,General government final consumption expenditure (constant 2015 US$)
+431,Total SG&A,"Insurance and financial services (% of service exports, BoP)"
+432,Total SG&A,"Primary income payments (BoP, current US$)"
+433,Total SG&A,Population ages 65 and above (% of total population)
+434,Total SG&A,"Population ages 40-44, male (% of male population)"
+435,Total SG&A,GNI: linked series (current LCU)
+436,Total SG&A,Discrepancy in expenditure estimate of GDP (constant LCU)
+437,Total SG&A,Imports of goods and services (current LCU)
+438,Total SG&A,"Population, male"
+439,Total SG&A,"Population ages 15-64, female"
+440,Total SG&A,GNI (constant 2015 US$)
+441,Total SG&A,GDP per capita (current LCU)
+442,Total SG&A,Imports of goods and services (constant 2015 US$)
+443,Total SG&A,Gross fixed capital formation (current LCU)
+444,Total SG&A,Households and NPISHs Final consumption expenditure (current US$)
+445,Total SG&A,General government final consumption expenditure (current US$)
+446,Total SG&A,"Secondary income receipts (BoP, current US$)"
+447,Total SG&A,Population in urban agglomerations of more than 1 million (% of total population)
